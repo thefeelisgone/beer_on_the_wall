@@ -1,4 +1,5 @@
 # beer_on_the_wall
+
 counter = 99
 repeat = True
 
@@ -17,7 +18,7 @@ while repeat == True :
     print ("Take one down and pass it around, {0} bottles of beer on the wall.".format(counter))
     print () #line of spacing between verses
         
-#NO MORE BEER D: Just kidding!
+        
 print ("{0} bottles of beer on the wall".format(counter.capitalize()), "{0} bottles of beer.".format(counter))
 print ("Go to the store and buy some more, 99 bottles of beer on the wall.") #is the 99 here allowed ): 
 
